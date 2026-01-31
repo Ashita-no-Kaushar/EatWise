@@ -130,5 +130,4 @@ This repository serves as the **Timestamped Proof of Concept (PoC) and Architect
 
 *Blueprint Locked: Jan 2026*
 
-```
 
